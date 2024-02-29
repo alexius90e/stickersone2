@@ -1,4 +1,6 @@
 .month-product {
+  background-color: $yellow;
+
   & .container {
     padding: 60px 20px 95px;
     background-color: $yellow;
@@ -142,7 +144,7 @@
       flex-wrap: wrap;
       gap: 2px 16px;
       margin-left: 32px;
-      
+
       @include tablet {
         margin-left: 24px;
       }

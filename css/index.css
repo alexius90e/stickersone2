@@ -44,6 +44,9 @@ ul {
   box-sizing: border-box;
 }
 
+.footer {
+  background-color: #F5B300;
+}
 .footer .container {
   position: relative;
   display: flex;
@@ -187,7 +190,6 @@ ul {
 
 .header {
   position: relative;
-  max-width: 1440px;
   margin: 0 auto;
   background-color: #f7f7f6;
 }
@@ -839,6 +841,9 @@ ul {
   width: 100%;
 }
 
+.communities {
+  background-color: #403d38;
+}
 .communities .container {
   padding: 61px 20px 48px;
   background-color: #403d38;
@@ -1056,6 +1061,9 @@ ul {
   }
 }
 
+.month-product {
+  background-color: #F5B300;
+}
 .month-product .container {
   padding: 60px 20px 95px;
   background-color: #F5B300;
