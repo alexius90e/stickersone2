@@ -1,13 +1,7 @@
 .main-slider {
   & .swiper {
     &-slide {
-      height: 550px;
       background-color: #0f1f2e;
-
-      @include mobile {
-        max-height: 860px;
-        height: calc(100vh - 74px);
-      }
     }
 
     &-button-prev,

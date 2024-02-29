@@ -459,14 +459,7 @@ ul {
 }
 
 .main-slider .swiper-slide {
-  height: 550px;
   background-color: #0f1f2e;
-}
-@media (max-width: 576px) {
-  .main-slider .swiper-slide {
-    max-height: 860px;
-    height: calc(100vh - 74px);
-  }
 }
 .main-slider .swiper-button-prev, .main-slider .swiper-button-next {
   height: 64px;
