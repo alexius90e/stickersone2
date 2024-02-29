@@ -1,5 +1,9 @@
 .header {
-  position: relative;
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
   margin: 0 auto;
   background-color: #f7f7f6;
 
