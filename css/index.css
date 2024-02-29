@@ -737,7 +737,8 @@ ul {
 }
 .order-process__card-image img {
   max-width: 100%;
-  height: auto;
+  height: 100%;
+  width: auto;
 }
 @media (max-width: 992px) {
   .order-process__card-image img {
